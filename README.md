@@ -1,7 +1,7 @@
 # Creación de videojuegos
-## I. Introducción al desarrollo de aplicaciones de videojuegos
+I. Introducción al desarrollo de aplicaciones de videojuegos
 
-# Lección 1 
+# Lección 1 - Unity
 
 ## Docente 
 - Barron Rodriguez Grabiel 
@@ -20,3 +20,5 @@
 - [Challenge 1 - Plane Programming](https://github.com/Florentinorm)
 
 
+<h3 align="left">Lenguajes y Herramientas:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
