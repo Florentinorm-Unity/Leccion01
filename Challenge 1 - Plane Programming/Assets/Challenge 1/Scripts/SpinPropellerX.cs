@@ -1,6 +1,8 @@
 /*
 Florentino Ramirez Balderas
 GDGS2021 | 1219100383 | 17/09/2022
+
+Descripción: Funcion para que la elice gire
 */
 
 using System.Collections;
@@ -9,7 +11,7 @@ using UnityEngine;
 
 public class SpinPropellerX : MonoBehaviour
 {
-    private float propeller = 1000;
+    private float propeller = 1000; //Valor para girar la elice 
 
     void Start()
     {

@@ -1,7 +1,8 @@
-﻿
-/*
+﻿/*
 Florentino Ramirez Balderas
 GDGS2021 | 1219100383 | 17/09/2022
+
+Descripción: Se hace la funcion para que la camara siga al avion
 */
 
 
