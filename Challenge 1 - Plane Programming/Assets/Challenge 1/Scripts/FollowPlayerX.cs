@@ -14,7 +14,7 @@ public class FollowPlayerX : MonoBehaviour
 {
     public GameObject plane;
 
-    //La camara sigue al avion 
+    //La camara sigue al avion con las cordenadas 30, 0, 10
     private Vector3 offset = new Vector3(30,0,10);
 
     // Se llama al inicio para poder actualizar el cuadro
@@ -23,7 +23,7 @@ public class FollowPlayerX : MonoBehaviour
 
     }
 
-    // actualizaciones por cuadro
+    // Pone la camara en la posicion donde se encuentra el jugador
     void Update()
     {
         transform.position = plane.transform.position + offset ;

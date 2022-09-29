@@ -2,7 +2,7 @@
 Florentino Ramirez Balderas
 GDGS2021 | 1219100383 | 17/09/2022
 
-Descripción: Funcion para que la elice gire
+Descripción: Funcion para que el avion pueda avansar
 */
 
 using System.Collections;
@@ -11,7 +11,7 @@ using UnityEngine;
 
 public class SpinPropellerX : MonoBehaviour
 {
-    private float propeller = 1000; //Valor para girar la elice 
+    private float propeller = 5000; //Valor para girar la elice entre mas alto mas rapido gira
 
     void Start()
     {
